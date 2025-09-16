@@ -11,6 +11,5 @@ This project is an implementation of real-time ray tracing in Unity using comput
 | 1 bounce | 2 bounces |
 |:--------:|:---------:|
 | ![1 bounce](Images/1bounce.png) | ![2 bounces](Images/2bounces.png) |
-| 4 bounces | 8 bounces |
-|:---------:|:---------:|
+| **4 bounces** | **8 bounces** |
 | ![4 bounces](Images/4bounces.png) | ![8 bounces](Images/8bounces.png) |
